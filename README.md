@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analysat
 
 #### Technical Skills: Python, SQL, Power BI, Excel
 
@@ -15,12 +15,17 @@
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### ### [Ultimate 11 with Power BI](https://github.com/koushaljk6/Ultimate-11)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+* The project objective is to select the best 11 cricket players from the 2022 World Cup data.
+* The project methodology is as follows:
+      * Data collection: The data was sourced from the ESPN cricket info website, which provides comprehensive statistics and analysis of cricket matches and players.
+      * Data cleaning and transformation: The data was processed and formatted according to the project requirements, such as filtering, grouping, aggregating, etc.
+      * Data visualization and analysis: The data was visualized and explored using various features of Power BI, such as barchart, treemap, slicer, etc., to create a dashboard that shows the performance of each                                          player in different aspects, such as batting, bowling, fielding, etc.
+* The project outcome is a dashboard that displays the best 11 cricket players from the 2022 World Cup data, based on various criteria and metrics, such as runs scored, wickets taken, matches played, strike
+  rate, economy rate, etc. The dashboard also allows the user to interact with the data and filter it by different dimensions, such as team, match, player, etc.
+## Overview of the Dashboard
+![](/Ultimate_11_dashboard.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
