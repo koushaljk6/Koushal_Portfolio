@@ -19,13 +19,13 @@
 
 * The project objective is to select the best 11 cricket players from the 2022 World Cup data.
 * The project methodology is as follows:
-      * Data collection: The data was sourced from the ESPN cricket info website, which provides comprehensive statistics and analysis of cricket matches and players.
-      * Data cleaning and transformation: The data was processed and formatted according to the project requirements, such as filtering, grouping, aggregating, etc.
-      * Data visualization and analysis: The data was visualized and explored using various features of Power BI, such as barchart, treemap, slicer, etc., to create a dashboard that shows the performance of each                                          player in different aspects, such as batting, bowling, fielding, etc.
+&emsp* Data collection: The data was sourced from the ESPN cricket info website, which provides comprehensive statistics and analysis of cricket matches and players.
+&emsp* Data cleaning and transformation: The data was processed and formatted according to the project requirements, such as filtering, grouping, aggregating, etc.
+&emsp* Data visualization and analysis: The data was visualized and explored using various features of Power BI, such as barchart, treemap, slicer, etc., to create a dashboard that shows the performance of each                                          player in different aspects, such as batting, bowling, fielding, etc.
 * The project outcome is a dashboard that displays the best 11 cricket players from the 2022 World Cup data, based on various criteria and metrics, such as runs scored, wickets taken, matches played, strike
   rate, economy rate, etc. The dashboard also allows the user to interact with the data and filter it by different dimensions, such as team, match, player, etc.
 ## Overview of the Dashboard
-![](/Ultimate_11_dashboard.png)
+![](Ultimate-11/Ultimate_11_dashboard.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
