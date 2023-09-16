@@ -19,9 +19,9 @@
 
 * The project objective is to select the best 11 cricket players from the 2022 World Cup data.
 * The project methodology is as follows:
-&emsp*; Data collection: The data was sourced from the ESPN cricket info website, which provides comprehensive statistics and analysis of cricket matches and players.
-&emsp*; Data cleaning and transformation: The data was processed and formatted according to the project requirements, such as filtering, grouping, aggregating, etc.
-&emsp*; Data visualization and analysis: The data was visualized and explored using various features of Power BI, such as barchart, treemap, slicer, etc., to create a dashboard that shows the performance of each                                          player in different aspects, such as batting, bowling, fielding, etc.
+&nbsp; &nbsp; &nbsp; &nbsp; Data collection: The data was sourced from the ESPN cricket info website, which provides comprehensive statistics and analysis of &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; cricket matches and players.
+&nbsp; &nbsp; &nbsp; &nbsp; Data cleaning and transformation: The data was processed and formatted according to the project requirements, such as filtering, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; grouping, aggregating, etc.
+&nbsp; &nbsp; &nbsp; &nbsp; Data visualization and analysis: The data was visualized and explored using various features of Power BI, such as barchart, treemap, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; slicer, etc., to create a dashboard that shows the performance of each player in different aspects, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; such as batting, bowling, fielding, etc.
 * The project outcome is a dashboard that displays the best 11 cricket players from the 2022 World Cup data, based on various criteria and metrics, such as runs scored, wickets taken, matches played, strike
   rate, economy rate, etc. The dashboard also allows the user to interact with the data and filter it by different dimensions, such as team, match, player, etc.
 ## Overview of the Dashboard
