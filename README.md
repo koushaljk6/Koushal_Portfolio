@@ -10,7 +10,7 @@
 - Analyzed and inspecting different scenarios of occurrence for certain Bugs in Android as well as Windows UI of HP Printers. 
 - Applied Unit testing for Migrating the Servers to LR0 Network to Improve the Cybersecurity.
 - Collected Data and Introspected the same to determine different size of pages supported for various HP printers.
-- Built Submenu for Diagnosing Sensor Test for SFP Products to automate the manual task and increase the efficiency by 70%.
+- Built Submenu for Diagnosing Sensor Test for SFP Products to automate the manual task and increase the efficiency by 30%.
 
 **Data Scientist Intern @ Experian (_December 2019 - April 2020_)**
 - As an Intern, created “IMAGE RETRIEVAL ALGORITHM” using Open CV and python in which for query image you will get desired output similar to that.
