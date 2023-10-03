@@ -41,5 +41,14 @@
 ## Overview of the Dashboard
 ![](Images/Dashboard_Vrinda_Store.png)
 
+### [Youtube-Scrapping](https://github.com/koushaljk6/Youtube-Scrapping)
+
+* This project leverages the YouTube API to gather, structure, and analyze valuable data from multiple YouTube channels, providing insights into channel names, subscriber counts, total views, and video upload counts.
+* Data preprocessing plays a crucial role in ensuring data accuracy and organization, setting the stage for more in-depth analysis.
+* Visualizations created using the Seaborn library offer a clear comparison of subscriber counts, total views, and video quantities across the selected YouTube channels, making complex data more accessible.
+* The special functions, 'get_video_ids()' and 'get_video_details()', help us fetch video IDs and important video info like titles, publish dates, views, likes, and comments. This gives us a deep dive into what's inside these channels.
+* The project's data export phase ensures that the collected and analyzed video data can be saved into your local system for further exploration, or sharing purposes.
+<!--## Overview of the Dashboard
+![](Images/Dashboard_Vrinda_Store.png)-->
 ### To Be Continued
-- [Projects in Progress](https://github.com/koushaljk6)
+- [Projects in PipeLine](https://github.com/koushaljk6)
