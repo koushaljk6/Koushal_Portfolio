@@ -49,6 +49,7 @@
 * The special functions, 'get_video_ids()' and 'get_video_details()', help us fetch video IDs and important video info like titles, publish dates, views, likes, and comments. This gives us a deep dive into what's inside these channels.
 * The project's data export phase ensures that the collected and analyzed video data can be saved into your local system for further exploration, or sharing purposes.
 <!--## Overview of the Dashboard
-![](Images/Dashboard_Vrinda_Store.png)-->
+![](Images/Dashboard_Vrinda_Store.png)-->  
+
 ### To Be Continued
 - [Projects in PipeLine](https://github.com/koushaljk6)
