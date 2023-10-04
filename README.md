@@ -41,7 +41,7 @@
 ## Overview of the Dashboard
 ![](Images/Dashboard_Vrinda_Store.png)
 
-### [Youtube-Scrapping](https://github.com/koushaljk6/Youtube-Scrapping)
+### [Youtube-Channel-Scrapping](https://github.com/koushaljk6/Youtube-Scrapping)
 
 * This project leverages the YouTube API to gather, structure, and analyze valuable data from multiple YouTube channels, providing insights into channel names, subscriber counts, total views, and video upload counts.
 * Data preprocessing plays a crucial role in ensuring data accuracy and organization, setting the stage for more in-depth analysis.
@@ -50,6 +50,24 @@
 * The project's data export phase ensures that the collected and analyzed video data can be saved into your local system for further exploration, or sharing purposes.
 <!--## Overview of the Dashboard
 ![](Images/Dashboard_Vrinda_Store.png)-->  
+
+### [Income Statement Dashboard](https://github.com/koushaljk6/Income-Statement)
+
+- **Project Overview**: Created a comprehensive income statement dashboard using Power BI to analyze financial data from FY2016 to FY2023 Q2.
+
+- **Data Source**: Utilized Microsoft financial data, specifically the yearly income statements, from FY2016 to FY2023 Q2, available in the "FinancialStatementFY23Q2.csv" file.
+
+- **Data Processing**: Performed data cleaning, processing, and transformation using Power Query editor, ensuring data accuracy and consistency for analysis.
+
+- **Visualization**: Employed various Power BI visuals, including clustered column charts, tables, and KPIs, to visualize and analyze the financial data effectively.
+
+- **Findings**: FY22 exhibited remarkable growth, with a 17.9% increase in total revenue compared to FY21. The "Service and other" department saw a substantial revenue increase of 29.4%, while the "Product" department displayed a 2.3% growth. Additionally, gross margin, operating income, and net income demonstrated significant improvements.
+
+- **Efficiency**: Notably, the company became more efficient in generating profits from its revenue in FY22, with net income as a percentage of total revenue increasing from 36.4% in FY21 to 36.7% in FY22.
+
+- **Conclusion**: The financial performance of the organization showed substantial improvement in FY22, indicating growth and financial stability. Enhanced operational efficiency was reflected in the increased net income as a percentage of total revenue.
+## Overview of the Dashboard
+![](Images/Income Statement Dashboard.png)
 
 ### To Be Continued
 - [Projects in PipeLine](https://github.com/koushaljk6)
